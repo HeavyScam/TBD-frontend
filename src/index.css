@@ -136,7 +136,7 @@ text-fill-color: transparent;
     margin-top: -35%;
   }
   .nav{
-    font-size: 12px !important;
+    font-size: 14px !important;
     margin-left:44px !important;
   }
   .load{
@@ -155,14 +155,14 @@ text-fill-color: transparent;
     font-size: 28px !important;
   }
   .keys{
-    height: 200px !important;
+    height: 250px !important;
     position: relative;
-    left: 35% !important;
+    left: 28% !important;
     right: 50% !important;
 
   }
   .bodytxt{
-    margin-top: 60%;
+    margin-top: 80%;
   }
   .btn1{
     height:38px;
