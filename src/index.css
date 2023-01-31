@@ -120,3 +120,59 @@ text-fill-color: transparent;
   box-shadow: inset 0px 2px 8px rgba(255, 255, 255, 0.142);
   filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.884));
 } */
+
+.txt{
+  font-size:28px
+}
+
+@media screen and (max-width: 600px) {
+  .load{
+    position: absolute;
+    height: 100px;
+    width: 100px;
+  }
+  .txt{
+    font-size:18px;
+    margin-top: -35%;
+  }
+  .nav{
+    font-size: 12px !important;
+    margin-left:44px !important;
+  }
+  .load{
+    height: 100px !important;
+    width: 100px !important;
+  }
+  .load1{
+    height: 40px !important;
+    width: 40px !important;
+  }
+  .sml-txt{
+    font-size: 16px !important;
+    margin-bottom: 100px !important;
+  }
+  .grad{
+    font-size: 28px !important;
+  }
+  .keys{
+    height: 200px !important;
+    position: relative;
+    left: 35% !important;
+    right: 50% !important;
+
+  }
+  .bodytxt{
+    margin-top: 60%;
+  }
+  .btn1{
+    height:38px;
+    width: 120px;
+    border-radius: 8px;
+    font-size: 12px !important;
+    white-space: nowrap;
+    margin-top: 5% !important;
+  }
+  .top{
+    margin-top: 30% !important;
+  }
+}
