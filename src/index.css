@@ -1,0 +1,122 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Rubik&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* font-family: "Rubik"; */
+}
+
+body {
+  background-color: #0a0a0a;
+  /* overflow-y: hidden; */
+}
+
+/* h2{
+  font-weight: 800;
+} */
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.grad {
+  font-weight: 700;
+  background: linear-gradient(90deg, #F07991 1.95%, #FF1158 88.32%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+background-clip: text;
+text-fill-color: transparent;
+}
+
+::-webkit-scrollbar {
+  width: 0.7rem;
+  background: #121212;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: black;
+  border-radius: 0.6rem;
+  z-index: -99;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #e45975;
+  border-radius: 1rem;
+}
+
+.load{
+  position: absolute;
+  height: 300px;
+  width: 300px;
+}
+
+.bounce2 {
+  animation: bounce2 2s ease infinite;
+}
+@keyframes bounce2 {
+	0%, 20%, 50%, 80%, 100% {transform: translateY(0);}
+	40% {transform: translateY(-30px);}
+	60% {transform: translateY(-15px);}
+}
+
+
+.loader{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+  /* background: linear-gradient(to right, #ff512f, #f09819);
+  animation: loader 2s ease infinite; */
+}
+
+.btn1{
+  box-shadow: inset 0px 2px 8px rgba(255, 255, 255, 0.142);
+  filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.884));
+  border-radius: 16px;
+  background: #0e0e0e;
+  width: 180px;
+  height: 60px;
+}
+
+.fade-in-down {
+  animation: fade-in-down 2s ease ;
+}
+@keyframes fade-in-down {
+  0% {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.fade-in-left {
+  animation: fade-in-left 2s ease;
+}
+@keyframes fade-in-left {
+  0% {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+/* .drop{
+  box-shadow: inset 0px 2px 8px rgba(255, 255, 255, 0.142);
+  filter: drop-shadow(0px 4px 8px rgba(0, 0, 0, 0.884));
+} */

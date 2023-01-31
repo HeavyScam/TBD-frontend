@@ -1,77 +1,70 @@
-# Name
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HeavyScam/FurnitAR?logo=github&style=social)](https://github.com/HeavyScam/) [![GitHub last commit](https://img.shields.io/github/last-commit/HeavyScam/FurnitAR?style=social&logo=git)](https://github.com/HeavyScam/) [![GitHub stars](https://img.shields.io/github/stars/HeavyScam/FurnitAR?style=social)](https://github.com/HeavyScam/FurnitAR/stargazers) [![GitHub forks](https://img.shields.io/github/forks/HeavyScam/FurnitAR?style=social&logo=git)](https://github.com/HeavyScam/FurnitAR/network)
+# Getting Started with Create React App
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/76126020/142780564-c95ef1f2-f608-4305-a1fb-be8a6dab3bf8.png" height="100px"></img>
-</p>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#### Link for [demo](http://fe247aa353e6443e86b12b9a01c0bd4a.patr.cloud/) 
-#### Link for [APK](https://github.com/HeavyScam/FurnitAR-Unity/tree/main/Build)
+## Available Scripts
 
+In the project directory, you can run:
 
-# Introduction
+### `npm start`
 
-# About 
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-# Links to repos
-- [**Frontend**](https://github.com/HeavyScam/furnitar-front)
-- [**Backend**](https://github.com/HeavyScam/furnitar-back)
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-# Features
+### `npm test`
 
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-# Buisness Model
+### `npm run build`
 
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-# Tech Stack
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-# Future Implementations
+### `npm run eject`
 
-# Contributors
-<table>
-	<tr align="center" style="font-weight:bold">
-    <td>
-		Thaman Muthappa M N
-		<p align="center">
-			<img src = "https://github.com/Thamanmuthappa.png" width="150" height="150" alt="Thaman Muthappa">
-		</p>
-			<p align="center">
-				<a href = "https://github.com/Thamanmuthappa">
-					<img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/>
-				</a>
-			</p>
-		</td>	
-    <td>
-		Rishi Malgwa
-		<p align="center">
-			<img src = "https://github.com/rishimalgwa.png" width="150" height="150" alt="Rishi Malgwa">
-		</p>
-			<p align="center">
-				<a href = "https://github.com/rishimalgwa">
-					<img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/>
-				</a>
-			</p>
-		</td>	
-    <td>
-		Sahas Vivek
-		<p align="center">
-			<img src = "https://github.com/sahas-01.png" width="150" height="150" alt="Rishi Malgwa">
-		</p>
-			<p align="center">
-				<a href = "https://github.com/sahas-01">
-					<img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/>
-				</a>
-			</p>
-		</td>	
-	</tr>
-</table>
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-## License
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
-<p align="center">
-	<img src="https://user-images.githubusercontent.com/76126020/142781761-5d5a5393-91d5-438f-adc4-87affbdfc5ed.png" alt="drawing" width="100"/>
-	<br><br>
-	With :heart: by <a href="http://github.com/HeavyScam" target="_blank">Heavy Scam</a>
-</p>
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
