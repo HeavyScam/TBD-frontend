@@ -1,8 +1,8 @@
-# Name
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HeavyScam/FurnitAR?logo=github&style=social)](https://github.com/HeavyScam/) [![GitHub last commit](https://img.shields.io/github/last-commit/HeavyScam/TFD-frontend?style=social&logo=git)](https://github.com/HeavyScam/) [![GitHub stars](https://img.shields.io/github/stars/HeavyScam/TFD-frontend?style=social)](https://github.com/HeavyScam/TFD-frontend/stargazers) [![GitHub forks](https://img.shields.io/github/forks/HeavyScam/TFD-frontend?style=social&logo=git)](https://github.com/HeavyScam/TFD-frontend/network)
+# The Best Date
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/HeavyScam/TBD-frontend?logo=github&style=social)](https://github.com/HeavyScam/) [![GitHub last commit](https://img.shields.io/github/last-commit/HeavyScam/TBD-frontend?style=social&logo=git)](https://github.com/HeavyScam/) [![GitHub stars](https://img.shields.io/github/stars/HeavyScam/TBD-frontend?style=social)](https://github.com/HeavyScam/TBD-frontend/stargazers) [![GitHub forks](https://img.shields.io/github/forks/HeavyScam/TBD-frontend?style=social&logo=git)](https://github.com/HeavyScam/TBD-frontend/network)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/76126020/142780564-c95ef1f2-f608-4305-a1fb-be8a6dab3bf8.png" height="100px"></img>
+  <img src="https://user-images.githubusercontent.com/76126020/215892942-89590095-bb53-4965-83ec-4be27256ea23.svg" height="200px"></img>
 </p>
 
 #### Link for [demo](https://thebestdate.vercel.app/) 
@@ -13,7 +13,7 @@
 # About 
 
 # Links to repos
-- [**Frontend**](https://github.com/HeavyScam/TFD-frontend)
+- [**Frontend**](https://github.com/HeavyScam/TBD-frontend)
 - [**Backend**](https://github.com/HeavyScam/furnitar-back)
 
 # Features
